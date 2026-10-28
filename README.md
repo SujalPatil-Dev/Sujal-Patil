@@ -58,22 +58,9 @@ Electronics and Computer Engineering student with a strong foundation in softwar
 - Database Management Systems (DBMS)
 - Relational Database Management Systems (RDBMS)
 - Data Structures
+- Data Visualization
 - Problem Solving
 - Software Development
-
----
-
-## 📌 Featured Projects
-
-🔹 Credit Card Fraud Detection Dashboard (Power BI)
-
-🔹 Student Management System
-
-🔹 Portfolio Website
-
-🔹 React.js Web Applications
-
-🔹 Python Automation Projects
 
 ---
 
@@ -91,9 +78,7 @@ Electronics and Computer Engineering student with a strong foundation in softwar
 
 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 
-📧 Email: YOUR_EMAIL
-
-🌍 Portfolio: YOUR_PORTFOLIO
+📧 Email: sujalpatil0400@gmail.com
 
 ---
 
